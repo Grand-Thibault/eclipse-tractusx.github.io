@@ -40,15 +40,11 @@ Business Managers, Product Owners, Solution Architects, Industry Experts, and De
 
 ### Vision
 
-> [Insert your KIT's vision statement]
-
-[Brief explanation of the vision and strategic objectives]
+The vision of the Tractus-X Tariff use case is to provide a harmonized data exchange mechanism that allows tariff-relevant information to be reused across companies and systems, enabling largely automated tariff calculation and reducing the need for manual interpretation and consolidation.
 
 ### Mission
 
-> [Insert your KIT's mission statement]
-
-[Brief explanation of the problem being solved]
+The mission of the Tractus-X Tariff use case is to enable partners across the automotive value chain to exchange tariff-relevant data in a standardized and sovereign manner, reducing manual overhead and enabling efficient aggregation of tariff information across multi-tier supply chains.
 
 ---
 
@@ -56,30 +52,30 @@ Business Managers, Product Owners, Solution Architects, Industry Experts, and De
 
 ### Value Proposition #1: [Title]
 
-**Benefit**: [Primary benefit description]
+**Benefit**: Reduced effort and cost for tariff data collection and aggregation.
 
-**Target Stakeholders**: [OEMs | SMEs | Solution Providers | etc.]
+**Target Stakeholders**: OEMs, Tier-1 to Tier-N suppliers
 
-**Measurable Outcomes**: [Key metrics]
+**Measurable Outcomes**: Reduction in manual data collection effort, lower administrative costs, faster availability of aggregated tariff data
 
 ### Value Proposition #2: [Title]
 
-**Benefit**: [Second benefit description]
+**Benefit**: Improved tariff compliance and reduced risk of penalties or delays due to incomplete or incorrect tariff information.
 
-**Target Stakeholders**: [Target audience]
+**Target Stakeholders**: OEMs, Suppliers, Compliance and Customs Departments
 
-**Measurable Outcomes**: [Key metrics]
+**Measurable Outcomes**: Fewer compliance errors, reduced number of customs queries or audits, lower penalty and delay rates
 
 ### Value Proposition #3: [Title]
 
-**Benefit**: [Third benefit description]
+**Benefit**: Enablement of interoperable tariff solutions and services based on Catena-X standards.
 
-**Target Stakeholders**: [Target audience]
+**Target Stakeholders**: Solution Providers, suppliers
 
-**Measurable Outcomes**: [Key metrics]
+**Measurable Outcomes**: Number of interoperable solutions, adoption rate of the Tariff data model, reduction in proprietary integrations.
 
 ---
-
+<!--
 ### Summary of Business Benefits
 
 | Stakeholder Type | Key Benefits | Time to Value |
@@ -88,30 +84,18 @@ Business Managers, Product Owners, Solution Architects, Industry Experts, and De
 | **SMEs** | [List 2-3 benefits for small-medium enterprises] | [e.g., "3 months"] |
 | **Solution Providers** | [List 2-3 benefits for tech vendors] | [e.g., "90 days"] |
 | **Data Providers** | [List 2-3 benefits for data providers] | [e.g., "4 weeks"] |
-
+-->
 ---
 
 ## Use Case Context
 
 ### Industry Challenge
 
-[Describe current industry problems and pain points]
+Recent and rapidly changing tariff regulations impose significant challenges on the automotive supply chain, which is characterized by highly globalized, multi-tier sourcing structures. Tariff-relevant information such as country of origin, production steps, material composition, and preferential trade eligibility is fragmented across many partners and systems.
 
-**Current Challenges:**
+Today, this data is often collected manually, inconsistently, and on demand, leading to high administrative overhead, long response times, limited transparency, and increased risk of errors or non-compliance. Companies struggle to aggregate tariff-relevant data across tiers, to assess tariff exposure in a timely manner, and to react efficiently to regulatory changes.
 
-- **Challenge 1**: [Problem description and impact]
-- **Challenge 2**: [Problem description and impact]
-- **Challenge 3**: [Problem description and impact]
-
-### The Solution
-
-[Explain how this KIT addresses the challenges]
-
-**Solution Components:**
-
-1. **[Component 1]**: [Description]
-2. **[Component 2]**: [Description]
-3. **[Component 3]**: [Description]
+As a result, the automotive industry faces higher costs, compliance risks, and reduced agility in managing tariffs within complex and dynamic global supply chains.
 
 ---
 
